@@ -1,1 +1,1 @@
-# ecomall-site
+# ecomall
